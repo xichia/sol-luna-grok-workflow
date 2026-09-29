@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sol · Luna · Grok workflow"
+  short_description: "Approve a plan, delegate stages, review with Grok"
+  default_prompt: "Use $sol-luna-grok to plan this work, wait for my approval, then delegate to Luna and prepare Grok 4.7 review after each stage."
