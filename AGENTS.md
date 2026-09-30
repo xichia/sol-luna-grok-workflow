@@ -3,7 +3,7 @@
 For a new piece of work or a request to resume a run, use
 `.agents/skills/sol-luna-grok/SKILL.md`.
 
-The manager is GPT-6 Sol. Explicitly delegate substantive implementation and
+The manager is GPT-6.1 Sol. Explicitly delegate substantive implementation and
 independent local review to GPT-6 Luna subagents; use Luna for bounded research
 where it helps. Complete a staged plan
 and obtain the user's approval before product implementation. Require manual

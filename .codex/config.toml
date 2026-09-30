@@ -1,5 +1,5 @@
 # Project defaults. The active chat's model selection can override these.
-model = "gpt-6-sol"
+model = "gpt-6.1-sol"
 model_reasoning_effort = "medium"
 
 [agents]

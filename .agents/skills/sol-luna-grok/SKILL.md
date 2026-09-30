@@ -1,6 +1,6 @@
 ---
 name: sol-luna-grok
-description: Coordinate staged work with GPT-6 Sol managing GPT-6 Luna subagents and manual external Grok 4.7 review. Use when the user requests this workflow, Luna delegation with Grok review, or resuming one of its runs.
+description: Coordinate staged work with GPT-6.1 Sol managing GPT-6 Luna subagents and manual external Grok 4.7 review. Use when the user requests this workflow, Luna delegation with Grok review, or resuming one of its runs.
 ---
 
 # Sol, Luna, and Grok
@@ -12,7 +12,7 @@ stage. Keep durable progress records and deliver an evidence-based final report.
 
 ## Roles and routing
 
-- **Manager: `gpt-6-sol`, medium reasoning by default.** Own the brief, plan,
+- **Manager: `gpt-6.1-sol`, medium reasoning by default.** Own the brief, plan,
   assignments, integration decisions, Grok prompts, finding dispositions, log,
   and final report. Delegate substantive research, implementation, and local
   review to Luna. Make small integration edits when useful; record exceptions

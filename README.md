@@ -1,11 +1,11 @@
 # Sol · Luna · Grok workflow
 
-A reusable Codex project workflow: GPT-6 Sol manages, GPT-6 Luna subagents do
+A reusable Codex project workflow: GPT-6.1 Sol manages, GPT-6 Luna subagents do
 bounded work, and you carry review packets to external Grok 4.7.
 
 ## Start a piece of work
 
-Open this project in Codex and select **GPT-6 Sol** in the model picker. Start a
+Open this project in Codex and select **GPT-6.1 Sol** in the model picker. Start a
 new chat if the newly added skill and configuration are not yet discovered.
 Then send:
 
